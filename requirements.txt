@@ -1,4 +1,4 @@
-import streamlit as st
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
+streamlit==1.10.0
+matplotlib==3.5.0
+pandas==1.3.3
+seaborn==0.11.2
